@@ -1,4 +1,4 @@
-# RT_exp
+# Reaction time experiment
 
 ## Introduction
 

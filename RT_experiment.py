@@ -124,4 +124,4 @@ df['gender'] = info['Age']
 df['ID'] = info['ID']
 
 # Finally export the data
-df.to_csv(fr'{str(datetime.date.today())}_ppt{ID}.csv') # include the date in the file name
+df.to_csv(fr'{str(datetime.date.today())}_ppt{info["ID"]}.csv') # include the date in the file name

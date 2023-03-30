@@ -106,12 +106,12 @@ def run_block(win, images, yes_key, no_key, category, exp_parameters):
 
 
 
-def run(win, stimuli, exp_phase, categories = ['face', 'object', 'scene', 'body'], keys = ['f', 'j'], interval_time=0.4, feedback_time=0.5):
+def run(win, stimuli, exp_phase, categories = ['face', 'scene', 'body'], keys = ['f', 'j'], interval_time=0.4, feedback_time=0.5):
     
     '''
     This function plays a run of a detection task. A run consists of several conditions, played randomly one 
     after the other. During each condition, participants need to indicate the presence/absence of a 
-    scene/body/face/object in the presented picture, by pressing F/J for present. Each condition is associated
+    scene/body/face in the presented picture, by pressing F/J for present. Each condition is associated
     with a detection key, of which the order is chosen randomly.
     
     The total number of conditions will depend on the numbe of inut categories. For instance, a  combination

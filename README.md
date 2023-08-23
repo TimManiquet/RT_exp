@@ -4,7 +4,7 @@
 
 This behavioral experiment aimed to measure the reaction time to the category discrimination of different naturalistic stimuli. 
 
-It is based on a study conducted by Ratan et al. (2021), which compared the brain activation of FFA/EBA/PPA predicted by an artificial neural network-based coding model with the brain activation of FFA/EBA/PPA observed using fMRI. This ANN model showed highly accurate predictions, even outperforming descriptive models and experts.
+It is based on a study conducted by Ratan Murty et al. (2021), which compared the brain activation of FFA/EBA/PPA predicted by an artificial neural network-based coding model with the brain activation of FFA/EBA/PPA observed using fMRI. This ANN model showed highly accurate predictions, even outperforming descriptive models and experts.
 
 The present experiment used visual stimuli from the ANN model study, and the collected data were analysed exploratively with the published data from the ANN model study. 
 
